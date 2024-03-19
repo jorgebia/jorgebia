@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgebia
-- 👀 I’m interested in security
-- 🌱 I’m currently learning Azure AD
+- 👀 I’m interested in Authentication
+- 🌱 I’m currently learning Entra ID
 - 📫 How to reach me: jorge.biavath@grupoboticario.com.br
 
 <!---
